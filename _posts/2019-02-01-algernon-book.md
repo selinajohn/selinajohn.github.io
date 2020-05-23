@@ -7,7 +7,7 @@ author:     77就是七七呀
 header-img: img/post-background.jpg
 catalog: true
 tags:
-    - 日常吐槽
+    - Books
 ---
 
 [^_^]: # (哈哈我是注释，不会在浏览器中显示。)
